@@ -247,16 +247,4 @@ https://github.com/therealdreg
 
 https://github.com/x64dbg
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/Kalugh
