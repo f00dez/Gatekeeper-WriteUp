@@ -1,4 +1,4 @@
-## Preparativos
+# Preparativos
 
 Ejecutamos un nmap de la siguiente manera: ```nmap -sC -sV -T5 -vv 10.10.250.223```
 
