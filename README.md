@@ -1,15 +1,3 @@
-# Introducción
-
-En nuestra máquina Kali, instala openvpn: ```sudo apt install openvpn``` y su archivo de configuración de vuestro perfil de Tryhackme.
-
-Nos conectamos mediante el siguiente comando: ```sudo openvpn tu_archivo.ovpn```
-
-Ve al laboratorio en cuestión: https://tryhackme.com/room/gatekeeper y empieza la máquina.
-
-![78a8f36c1dfb9abfbd0ea95082f82e26](https://user-images.githubusercontent.com/107146199/172962055-32a9ff9e-2528-4721-8b81-013d03a336d3.png)
-
-Cuando tengas la IP estaremos listos.
-
 ## Preparativos
 
 Ejecutamos un nmap de la siguiente manera: ```nmap -sC -sV -T5 -vv 10.10.250.223```
